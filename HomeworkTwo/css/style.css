@@ -1,0 +1,91 @@
+body{
+  /* make all text courier, set margin and padding to 0 */
+  font-family: "Lucida Grande", sans-serif;
+  /* margin: 0
+  padding: 20px; */
+  color: white;
+  background-color: black;
+}
+#red{
+  background-color: red;
+  text-align: right;
+}
+#blue{
+  background-color: blue;
+  text-align: left;
+}
+#yellow{
+  background-color: yellow;
+  text-align: right;
+
+}
+
+#yellow h2{
+  text-shadow: 4px 4px 2px grey;
+  color: black
+
+}
+
+#yellow p{
+  color: black 
+}
+#green{
+  background-color: green;
+  text-align: left;
+}
+h1{
+
+  font-size: 64px;
+  color: white;
+  text-align: center;
+}
+h2{
+  font-size: 32px;
+  text-shadow: 4px 4px 2px black;
+
+}
+p{
+
+  font-size: 16px;
+  /* line-height: 2; */
+  padding-top:15px;
+}
+a{
+
+  /* color: red;
+  font-style: italics;
+  text: underline; */
+}
+a:hover{
+
+  /* color: white;
+  background-color: black; */
+}
+ul{
+  /* make bullet points red squares */
+  /* list-style: square;
+  color: red;
+  padding-left: 20px; */
+}
+img{
+  width: 500px;
+  /* margin: */
+  border: 3px pink;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+div{
+  min-height: 100px;
+  padding: 30px;
+
+
+}
+
+footer{
+  /* style the footer so it has a black background and white text */
+  /* color: white;
+  background: black; */
+  text-align: center;
+  padding-bottom: 15px;
+}
